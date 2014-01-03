@@ -1,4 +1,4 @@
 dorothea
 ========
 
-insta-gram-type app for TheLivingNewDeal.org
+insta-gram-type app for LivingNewDeal.org
